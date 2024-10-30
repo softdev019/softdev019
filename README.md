@@ -1,5 +1,7 @@
 # 💫About Me : 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+full+stack+developer)](https://git.io/typing-svg)
+
+
 Experienced Full Stack Developer with a strong background in Django stack, MERN stack, Laravel (PHP), and Solidity+Web3. Skilled in developing decentralized applications (DEX, DeFi projects, NFT markets), AI-based web 
 projects, and chatbot solutions. Passionate about building scalable, secure, and high-performance applications.
 
