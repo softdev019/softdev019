@@ -1,17 +1,189 @@
-# 💫About Me : 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+full+stack+developer)](https://git.io/typing-svg)
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Corsair%20Queen" /></a><br>
 
 
-Experienced Full Stack Developer with a strong background in Django stack, MERN stack, Laravel (PHP), and Solidity+Web3. Skilled in developing decentralized applications (DEX, DeFi projects, NFT markets), AI-based web 
-projects, and chatbot solutions. Passionate about building scalable, secure, and high-performance applications.
+<h1>
+ About Me 
+<a href="#--about-me--">
+    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
+</a>
+</h1>
 
 
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/robinhood029) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@softdev019) 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=softdev019&data=followers,repositories,stars,commits)](https://europa-dev.com)
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊GitHub Stats :
+
+<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+
+
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+
+
+### Languages
+<table>
+    <td align="center" width="90">
+        <a href="https://csharp-station.com/" target="_blank"><img alt="C#" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c%23.svg" /></a>
+        <br><h4>C#</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img alt=".Net" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/dotnet.jpg" /></a>
+        <br><h4>.Net</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.java.com/" target="_blank"><img alt="Java" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
+        <br><h4>Java</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
+        <br><h4>JavaScript</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
+        <br><h4>TypeScript</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.php.net/" target="_blank"><img alt="PHP" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
+        <br><h4>PHP</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.scala-lang.org/" target="_blank"><img alt="Scala" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/scala.webp" /></a>
+        <br><h4>Scala</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+        <br><h4>Python</h4>
+    </td>
+</table>
+
+### Libraries
+<table>
+    <td align="center" width="90">
+        <a href="https://react.dev/" target="_blank"><img alt="React width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
+        <br><h4>React</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://jquery.com/" target="_blank"><img alt="jQuery" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
+        <br><h4>jQuery</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://redux.js.org/" target="_blank"><img alt="Redux" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/redux.svg" /></a>
+        <br><h4>Redux</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
+        <br><h4>Node.js</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.chaijs.com/" target="_blank"><img alt="Chai" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/chai.svg" /></a>
+        <br><h4>Chai</h4>
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+</table>
+
+### Frameworks
+<table>
+    <td align="center" width="90">
+        <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
+        <br><h4>Next.js</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
+        <br><h4>Tailwind CSS</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
+        <br><h4>Angular</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://vuejs.org/" target="_blank"><img alt="Vue" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
+        <br><h4>Vue</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a>
+        <br><h4>Django</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://mochajs.org/" target="_blank"><img alt="Mocha" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/mocha.png" /></a>
+        <br><h4>Mocha</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://jestjs.io/" target="_blank"><img alt="Jest" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jest.jpg" /></a>
+        <br><h4>Jest</h4>
+    </td>
+    <td align="center" width="90">
+    </td>
+</table>
+
+### Database
+<table>
+    <td align="center" width="90">
+        <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
+        <br><h4>PostgreSQL</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
+        <br><h4>MySQL</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img alt="Cassandra" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/cassandra.jpeg" /></a>
+        <br><h4>Cassandra</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.oracle.com/" target="_blank"><img alt="Oracle" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/oracle.png"/></a>
+        <br><h4>Oracle</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
+        <br><h4>MongoDB</h4>
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+</table>
+
+### Tools
+<table>
+    <td align="center" width="90">
+        <a href="https://github.com/" target="_blank"><img alt="Git" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
+        <br><h4>Git</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
+        <br><h4>AWS</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.docker.com/" target="_blank"><img alt="Docker" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
+        <br><h4>Docker</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.postman.com/" target="_blank"><img alt="Postman" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Postman.png" /></a>
+        <br><h4>Postman</h4>
+    </td>
+    <td align="center" width="90">
+    </td>
+    <td align="center" width="90">
+    </td>
+</table>
+
+<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+
+<div style="display: flex; align-items: center">
+  <h1> 
+    My GitHub Stats 
+    <a href="#-my-github-stats--">
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
+    </a>
+  </h1>
+</div>
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=softdev019&bg_color=ffffff&color=d56262&line=fea9a9&point=de3535&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-profile-trophy.vercel.app/?username=softdev019)
@@ -19,10 +191,10 @@ projects, and chatbot solutions. Passionate about building scalable, secure, and
 ![](https://github-readme-streak-stats.herokuapp.com/?user=softdev019&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=softdev019&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
----
 [![](https://visitcount.itsvg.in/api?id=europa&label=Full%20Stack%20developer&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+
+
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&section=footer" /></a>
 
